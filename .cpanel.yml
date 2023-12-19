@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/sico/public_html/
+ - export DEPLOYPATH=/home/sico/
  - /bin/cp -R public_html $DEPLOYPATH
